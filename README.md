@@ -2,7 +2,7 @@
 
 Ini adalah repositori untuk dokumentasi dan tautan ke dashboard Looker Studio bertema analisis kesehatan, khususnya data diabetes.
 
-> Proyek ini merupakan visualisasi interaktif dari data kesehatan pasien untuk mengamati hubungan antara tingkat glukosa, usia, dan BMI (Body Mass Index).  
+> Proyek ini merupakan proyek pribadi membuat visualisasi interaktif dari data kesehatan pasien untuk mengamati hubungan antara tingkat glukosa, usia, dan BMI (Body Mass Index).  
 > Dashboard dibuat dengan Google Looker Studio menggunakan dataset dari [Diabetes Database (Kaggle)](https://www.kaggle.com/datasets/aryanpatel0204/diabetes-dashboard-power-bi)
 
 ---
